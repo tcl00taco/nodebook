@@ -5,7 +5,15 @@
  "description": "Censors words out of text",
  "main" : "censortext",
  "dependencies" : {},
-"engines" : {
+ "repository":{
+  "type" : "git",
+  "url" : "https://github.com/tcl00taco/nodebook"
+ },
+ "keywords":[
+   "censor",
+   "words"
+],
+ "engines" : {
     "node":"*"
  }
 }
